@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Should’ve Been a Cowboy
+
+This log tracks the cryptographic history and versioning for the song **Should’ve Been a Cowboy** (shouldve-been-a-cowboy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:37:23.738648 | `v1` | `eeab49594b206aad9c27f63bafe944c00da17ce380d8acb41558c09d4093ab7c` | `e7aad85ea730c0ffd0cacf2151886e0bef8b699ca0747bccb88cafdad65fed62` | `2026-05-22_shouldve-been-a-cowboy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

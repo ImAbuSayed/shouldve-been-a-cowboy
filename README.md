@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shouldve-been-a-cowboy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Should’ve Been a Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shouldve-been-a-cowboy/) |
+| **Get License** | [Commercial Licensing for Should’ve Been a Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shouldve-been-a-cowboy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eeab49594b206aad9c27f63bafe944c00da17ce380d8acb41558c09d4093ab7c` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
